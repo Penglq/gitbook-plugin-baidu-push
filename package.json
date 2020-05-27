@@ -1,0 +1,25 @@
+{
+  "name": "gitbook-plugin-baidu-push",
+  "description": "gitbook百度推送插件",
+  "keywords": [
+    "gitbook",
+    "baidu",
+    "plugin",
+    "push"
+  ],
+  "author": "refined-x.com",
+  "main": "index.js",
+  "version": "0.0.1",
+  "engines": {
+    "gitbook": ">=2.5.1"
+  },
+  "homepage": "https://github.com/penglq/gitbook-plugin-baidu-push",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/penglq/gitbook-plugin-baidu-push"
+  },
+  "license": "Apache 2",
+  "bugs": {
+    "url": "https://github.com/penglq/gitbook-plugin-baidu-push/issues"
+  }
+}
